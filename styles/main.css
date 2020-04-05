@@ -196,3 +196,9 @@ h5 {
 .logo {
     max-width: 300px;
 }
+
+.small-logo-nucleos {
+    max-height: 50px;
+    max-width: 100px;
+    margin: 3px;
+}
